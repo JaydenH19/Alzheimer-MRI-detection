@@ -1,5 +1,5 @@
-from tensorflow import keras 
+import tensorflow 
+import keras 
 import pandas as pd
+import tensorflow as tf
 
-
-df = pd.read_cvs('data/ MildDemented/NonDemented/VeryMildDemented/Mo')
